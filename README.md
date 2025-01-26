@@ -4,7 +4,7 @@
 <h3>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> R Programming</b>
-  - [IBM Data Analytics](https://github.com/AmeliaAmpuero/IBM-Data-Analytics-Excel-R)
+  - [Introduction to R](https://github.com/AmeliaAmpuero/INTRO-R-Programming-for-Data-Science)
 
 <h2> 🤳 Connect with me:</h2>
 
