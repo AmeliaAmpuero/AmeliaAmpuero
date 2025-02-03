@@ -5,7 +5,7 @@
 
 - <b> R Programming</b>
   - [Introduction to R](https://github.com/AmeliaAmpuero/INTRO-R-Programming-for-Data-Science)
-  - [SQL for Data Science with R](https://github.com/AmeliaAmpuero/SQL-for-Data-Science)
+  - [SQL with R](https://github.com/AmeliaAmpuero/SQL-for-Data-Science)
   - [Data Analysis with R](https://github.com/AmeliaAmpuero/Data-Analysis-with-R)
   - [Data Visualization with R](https://github.com/AmeliaAmpuero/Data-Visualization-with-R)
   - [Data Science with R - Capstone Project](https://github.com/AmeliaAmpuero/IBM-Data-Science-with-R-Capstone-Project)
