@@ -5,6 +5,10 @@
 
 - <b> R Programming</b>
   - [Introduction to R](https://github.com/AmeliaAmpuero/INTRO-R-Programming-for-Data-Science)
+  - [SQL for Data Science with R](https://github.com/AmeliaAmpuero/INTRO-R-Programming-for-Data-Science)
+  - [Data Analysis with R](https://github.com/AmeliaAmpuero/INTRO-R-Programming-for-Data-Science)
+  - [Data Visualization with R](https://github.com/AmeliaAmpuero/INTRO-R-Programming-for-Data-Science)
+  - [Data Science with R - Capstone Project](https://github.com/AmeliaAmpuero/INTRO-R-Programming-for-Data-Science)
 
 <h2> 🤳 Connect with me:</h2>
 
